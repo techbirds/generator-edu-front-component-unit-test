@@ -1,4 +1,4 @@
-# generator-edu-front-component-unit-test [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-edu-front-component-unit-test [![Build Status][travis-image]][travis-url]
 > 
 
 ## Installation

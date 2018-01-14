@@ -10,8 +10,5 @@ describe('generator-edu-front-component-unit-test:app', () => {
   });
 
   it('creates files', () => {
-    assert.file([
-      'dummyfile.txt'
-    ]);
   });
 });

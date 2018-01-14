@@ -25,7 +25,7 @@ module.exports = class extends Generator {
       {
         type: 'input',
         name: 'projectAuthor',
-        message: 'Author (edu):',
+        message: '作者 (edu):',
         default: 'edu'
       }
     ];
