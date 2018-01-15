@@ -1,6 +1,14 @@
 # generator-edu-front-component-unit-test [![Build Status][travis-image]][travis-url]
 > 
 
+## Structure
+
+```
+.
+├── cases.js
+└── test.js
+```
+
 ## Installation
 
 First, install [Yeoman](http://yeoman.io) and generator-edu-front-component-unit-test using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
